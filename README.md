@@ -38,8 +38,8 @@ Una sfida ai rigori nel browser (Lazio vs Roma ⚽) con modelli gerarchici, fisi
 ### 🧰 Strumenti
 
 **Linguaggi:** Python, SQL, JavaScript  
-**Dati e ML:** pandas, NumPy, scikit-learn, Jupyter  
-**Sistemi:** PostgreSQL, Docker, FastAPI, Git
+**Dati e ML:** PostgreSQL, data warehouse (star schema), ETL, OLAP, scikit-learn, pandas, NumPy, Jupyter  
+**Sviluppo e sistemi:** Git e GitHub, Docker, FastAPI, WebSockets, React, Streamlit, Three.js
 
 ### 🌍 Lingue
 
