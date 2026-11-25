@@ -1,46 +1,48 @@
-## Ciao, sono Fabrizio 👋
+## Hi, I'm Fabrizio 👋
 
-Studio **Engineering in Computer Science and Artificial Intelligence** (laurea magistrale) alla Sapienza Università di Roma, dopo la triennale in **Economia e Big Data** a Roma Tre.
+I'm doing an MSc in **Engineering in Computer Science and Artificial Intelligence** at Sapienza University of Rome, after a BSc in **Economics and Big Data** at Roma Tre.
 
-Questo mix si vede in quello che mi piace fare: trasformare dati grezzi in qualcosa che serva davvero a prendere decisioni. Mi interessano soprattutto:
+That mix shapes what I like to work on: taking raw data and turning it into something people can use to make decisions. So far I've worked across three areas:
 
-- **Modelli predittivi** che reggono il confronto con baseline solide, non solo quelli che fanno bella figura sul notebook
-- **Comportamento dei clienti**: churn, retention, segmentazione (per la tesi mi sto orientando sulla survival analysis, per capire non solo *se* un cliente se ne andrà ma *quando*)
-- **Pipeline e architetture dati**: dall'ingestione dei flussi al data warehouse, fino alla dashboard che qualcuno apre davvero
+- **Machine learning**: predictive models evaluated against solid baselines
+- **Data engineering**: from ingesting data streams to a data warehouse and the dashboard on top of it
+- **Data analysis**: answering a concrete business question with data
 
-🎯 **Cerco un tirocinio per la tesi magistrale** in data science, machine learning o data engineering, disponibile da **marzo 2027**. Vivo a Roma.
+For my thesis I'm interested in customer behaviour (churn, retention, segmentation), and I'm leaning towards survival analysis, to understand not only *whether* a customer will leave but *when*.
 
-📄 **CV:** [Italiano](cv/Fabrizio_Pietrobono_CV_IT.pdf) · [English](cv/Fabrizio_Pietrobono_CV_EN.pdf)  
+🎯 **Looking for a master's thesis internship** in machine learning, data engineering or data analysis, from **March 2027**, in Italy or abroad.
+
+📄 **CV:** [English](cv/Fabrizio_Pietrobono_CV_EN.pdf) · [Italiano](cv/Fabrizio_Pietrobono_CV_IT.pdf)  
 💼 **LinkedIn:** [fabriziopietrobono](https://www.linkedin.com/in/fabriziopietrobono)
 
 ---
 
-### 🛠️ Progetti
+### Projects
 
-**[Poker Hand Classification](https://github.com/Biziopietrobono/poker-hand-classification)** · *progetto individuale, corso di Machine Learning*  
-Fin dove arrivano i modelli classici su 1 milione di mani di poker divise in 10 classi fortemente sbilanciate? Naive Bayes, Softmax Regression, Decision Tree e Random Forest messi a confronto.  
+**[Poker Hand Classification](https://github.com/Biziopietrobono/poker-hand-classification)** · *individual project, Machine Learning course*  
+How far do classical models go on one million poker hands split into 10 heavily imbalanced classes? Naive Bayes, Softmax Regression, Decision Tree and Random Forest compared.  
 `Python` `scikit-learn` `pandas` `Jupyter`
 
-**[E.C.H.O.](https://github.com/Biziopietrobono/echo-seismic-monitoring)** · *gruppo di 5, Advanced Programming*  
-Sistema distribuito e fault-tolerant che classifica eventi sismici in tempo reale. Il mio contributo: il **broker di ingestione** che riceve i flussi dei sensori e li smista ai nodi di elaborazione.  
+**[E.C.H.O.](https://github.com/Biziopietrobono/echo-seismic-monitoring)** · *team of 5, Advanced Programming*  
+A distributed, fault-tolerant system that classifies seismic events in real time. My part: the **ingestion broker**, which receives the sensor streams and distributes them to the processing nodes. I also worked on the persistence API that stores the events in PostgreSQL.  
 `Python` `FastAPI` `WebSockets` `Docker` `PostgreSQL`
 
-**[Il potere d'acquisto del lavoratore tech](https://github.com/Biziopietrobono/tech-worker-purchasing-power-dw)** · *gruppo di 2, Data Management*  
-Data warehouse a schema a stella costruito per rispondere a una domanda: dove rende di più uno stipendio da tech?  
-`PostgreSQL` `ETL in Python` `OLAP SQL` `Streamlit`
+**[The Purchasing Power of the Tech Worker](https://github.com/Biziopietrobono/tech-worker-purchasing-power-dw)** · *team of 2, Data Management*  
+A star-schema data warehouse built to answer one question: where does a tech salary buy the most?  
+`PostgreSQL` `Python ETL` `OLAP SQL` `Streamlit`
 
-**[Penalty Kick 3D](https://github.com/Biziopietrobono/penalty-kick-threejs)** · *progetto di gruppo, Interactive Graphics*  
-Una sfida ai rigori nel browser (Lazio vs Roma ⚽) con modelli gerarchici, fisica del pallone scritta a mano e una macchina a stati per la partita.  
+**[Penalty Kick 3D](https://github.com/Biziopietrobono/penalty-kick-threejs)** · *team of 3, Interactive Graphics*  
+A penalty shootout in the browser (Lazio vs Roma ⚽) with hierarchical models, hand-written ball physics and a state machine for the match.  
 `Three.js` `WebGL` `JavaScript`
 
 ---
 
-### 🧰 Strumenti
+### Tools
 
-**Linguaggi:** Python, SQL, JavaScript  
-**Dati e ML:** PostgreSQL, data warehouse (star schema), ETL, OLAP, scikit-learn, pandas, NumPy, Jupyter  
-**Sviluppo e sistemi:** Git e GitHub, Docker, FastAPI, WebSockets, React, Streamlit, Three.js
+**Languages:** Python, SQL  
+**Data and ML:** PostgreSQL, data warehousing (star schema), ETL, OLAP, scikit-learn, PyTorch, pandas, NumPy, Jupyter  
+**Development and systems:** Git, Docker, FastAPI, WebSockets, Linux
 
-### 🌍 Lingue
+### Languages
 
-Italiano (madrelingua) · Inglese (B2) · Spagnolo (B1)
+Italian (native) · English (B2)
